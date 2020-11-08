@@ -5,7 +5,6 @@
 * SCSS
 * JavaScript
 * Gulp
-* GSAP
 
 #### Project functionality includes:
   - Adaptivity for mobile and tablet devices;
