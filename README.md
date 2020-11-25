@@ -8,10 +8,11 @@
 
 #### Project functionality includes:
   - Adaptivity for mobile and tablet devices;
-  - Crossbrowser compatiblity;
+  - Crossbrowser compatibility;
   
   ##### Landing Page fitures
   - english and russian language mode;
+  - lighy and dark mode option;
   - callback button followed by callback form registration;
   - our team section slider;
   - review section slider;
