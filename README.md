@@ -6,6 +6,16 @@
 * JavaScript
 * Gulp
 
+<h3 align="center"> :computer: Desktop</h3>
+<div align="center">
+  <img src="https://github.com/NataLinaIT/fitness_zone.github.io/blob/main/fitness_desktop_speed.gif?raw=true" alt="screenshot" >
+</div>
+
+<h3 align="center"> :iphone: Mobile </h3>
+<div align="center">
+  <img src="https://github.com/NataLinaIT/fitness_zone.github.io/blob/main/fitness_mobile_speed.gif?raw=true" alt="screenshot" width="300px" >
+</div>
+
 #### Project functionality includes:
   - Adaptivity for mobile and tablet devices;
   - Crossbrowser compatibility;
